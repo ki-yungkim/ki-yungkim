@@ -1,4 +1,6 @@
-### Hi there 👋
+### JAVA 배우는 중 210517 ~ 
+
+
 
 <!--
 **ki-yungkim/ki-yungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
