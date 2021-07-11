@@ -1,7 +1,8 @@
 # Playdata 빅데이터 엔지니어 과정
 
 ## JAVA 210517 ~ 210609
-## MySQL, Oracle 210610 ~ 
+## MySQL, Oracle 210610 ~ 210622
+## Web 210623~
 
 
 
