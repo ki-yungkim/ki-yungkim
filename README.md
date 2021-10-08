@@ -3,6 +3,8 @@
 ## JAVA 210517 ~ 210609
 ## MySQL, Oracle 210610 ~ 210622
 ## Web 210623~
+## Spring
+## Python 
 
 
 
