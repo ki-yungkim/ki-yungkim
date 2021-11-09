@@ -11,10 +11,10 @@
 ## 머신러닝 210930 ~ 211018 88일차 ~ 100일차
 ## 최종프로젝트 211013 ~ 211105 97일차 ~ 113일 최종일 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp  
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Flask-3766AB?style=flat-square&logo=Flask&logoColor=white"/> 
 
 
