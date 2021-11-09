@@ -11,7 +11,7 @@
 ## 머신러닝 210930 ~ 211018 88일차 ~ 100일차
 ## 최종프로젝트 211013 ~ 211105 97일차 ~ 113일 최종일 
 
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <!--
 **ki-yungkim/ki-yungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
