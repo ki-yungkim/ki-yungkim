@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/Flask-1B86F2?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp 
 
 * Encore 아카데미 빅데이터 엔지니어 과정 수료
-* 2021.05.17 - 2021.11.05
+** 2021.05.17 - 2021.11.05
